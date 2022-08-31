@@ -1,7 +1,7 @@
 {
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
-   "app_AppOpenAdStatus":"1",
+   "app_AppOpenAdStatus":"0",
    "qureka":"https://u.technicalbuz.com/znijan/",
    "qureka_splash":"1",
    "qureka_status":"1",
@@ -16,10 +16,10 @@
    "Admob_Native":"ca-app-pub-3940256099942544/2247296110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "topon_showStatus":"1",
-   "topon_appid":"a630d91bc0ce21",
+   "topon_appid":"a630d926a74b7e",
    "topon_appkey":"cb3f2673a7b8c1c0f61c7bb0c87c83",
-   "topon_banner":"b630d91df401eb",
-   "topon_inter1":"b630d91dfe3b14",
-   "topon_inter2":"b630d91dfe3b14",
-   "topon_native":"b630d91e0765cd"
+   "topon_banner":"b630d928d33a70",
+   "topon_inter1":"b630d928dd9ef6",
+   "topon_inter2":"b630d928dd9ef6",
+   "topon_native":"b630d928e2b6a7"
 }
